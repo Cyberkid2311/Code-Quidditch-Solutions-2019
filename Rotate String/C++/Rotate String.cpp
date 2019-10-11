@@ -48,3 +48,5 @@ int main() {
     cout << s.substr(c, s.size() - c);    
     cout << s.substr(0, c) << endl;
 }
+
+// ---TEAM SCA---
